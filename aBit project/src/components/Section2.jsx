@@ -3,7 +3,7 @@ import { AddPost, PostCard } from './'
 
 function Section2() {
   return (
-    <div className='h-[40vw]'>
+    <div className='h-[80vh]'>
         <div className='flex justify-between pl-20 py-6'>
             <div className='font-serif'>
                 <div className='text-3xl mb-2'>Releases</div>

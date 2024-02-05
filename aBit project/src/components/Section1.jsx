@@ -11,8 +11,8 @@ function Section1() {
         <div
           className="h-[60vh] bg-[center_top_-6rem]"
           style={{
-            backgroundSize: "cover",
-            backgroundAttachment: "local",
+            backgroundSize: "auto",
+            backgroundAttachment: "scroll",
             backgroundImage: `url(${img})`,
           }}
         >
